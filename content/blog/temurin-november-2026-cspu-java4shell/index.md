@@ -42,4 +42,4 @@ It is Adoptium's priority to deliver security patches as quickly as possible.
 
 2. Check if someone has already raised a query on an issue before raising a duplicate. This helps to reduce the noise and allow us to focus on delivering a release.
 
-To follow on-going progress, see the [Temurin issue tracker](https://github.com/adoptium/temurin/issues/326) and the `#release` channel on [Adoptium Slack](https://adoptium.net/slack.html).
+To follow on-going progress, see the [Temurin issue tracker](https://github.com/adoptium/temurin/issues/326) and the `#release` channel on [Adoptium Slack](https://adoptium.net/slack).
